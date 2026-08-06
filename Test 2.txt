@@ -1,4 +1,3 @@
 class = "member, account"
  
-
-print("Hi")
+print("Hi") 
